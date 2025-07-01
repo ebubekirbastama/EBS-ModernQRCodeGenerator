@@ -19,8 +19,8 @@ tamamen kullanıcı dostu ve responsive arayüze sahip bir QR kod üretici uygul
 📸 Ekran Görüntüsü
 
 ![Ana Ekran](s1.png)
-![Ana Ekran](s2.png)
-![Ana Ekran](s3.png)
+![Ana Ekran](qr_kod.png)
+![Ana Ekran](qr_kod.gif)
 
 🎯 Özellikler
 
