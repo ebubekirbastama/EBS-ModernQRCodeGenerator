@@ -16,6 +16,12 @@ tamamen kullanıcı dostu ve responsive arayüze sahip bir QR kod üretici uygul
 
 ---
 
+📸 Ekran Görüntüsü
+
+![Ana Ekran](s1.png)
+![Ana Ekran](s2.png)
+![Ana Ekran](s3.png)
+
 🎯 Özellikler
 
 - Çoklu renk ve gradient seçenekleri (dairesel, yatay, dikey, çapraz)
